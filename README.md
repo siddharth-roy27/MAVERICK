@@ -54,27 +54,27 @@ It provides **redundant sensor fusion**, **dual pyro channels**, **CAN networkin
 
 ## 🗂️ Repository Structure
 
-MAVERICK/
-├── LICENSE
-├── README.md
-├── .gitignore
-├── BOM.csv
-├── hardware/
-│ ├── schematics/
-│ ├── pcb/
-│ ├── diagrams/
-│ │ └── MAVERICK Architecture.png
-│ └── README.md
-├── firmware/
-│ ├── stm32/
-│ └── esp32/
-├── docs/
-│ ├── diagrams/
-│ └── logs/
-├── tools/
-└── .github/
-├── ISSUE_TEMPLATE.md
-└── PULL_REQUEST_TEMPLATE.md
+MAVERICK/ \n
+├── LICENSE \n
+├── README.md \n
+├── .gitignore \n
+├── BOM.csv \n
+├── hardware/ \n
+│ ├── schematics/ \n
+│ ├── pcb/ \n
+│ ├── diagrams/ \n
+│ │ └── MAVERICK Architecture.png \n
+│ └── README.md \n
+├── firmware/ \n
+│ ├── stm32/ \n
+│ └── esp32/ \n
+├── docs/ \n
+│ ├── diagrams/ \n
+│ └── logs/ \n
+├── tools/ \n
+└── .github/ \n
+├── ISSUE_TEMPLATE.md \n
+└── PULL_REQUEST_TEMPLATE.md \n
 
 ---
 
